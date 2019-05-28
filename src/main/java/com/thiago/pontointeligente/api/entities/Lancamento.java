@@ -22,7 +22,7 @@ import com.thiago.pontointeligente.api.enums.TipoEnum;
 
 @Entity
 @Table(name = "lancamento")
-public class Lancamento<Funcionario> implements Serializable {
+public class Lancamento implements Serializable {
 	
 	private static final long serialVersionUID = 6524560251526772839L;
 
