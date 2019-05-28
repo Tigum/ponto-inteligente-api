@@ -1,4 +1,4 @@
-package com.thiago.pontointeligente.enums;
+package com.thiago.pontointeligente.api.enums;
 
 public enum TipoEnum {
 	INICIO_TRABALHO,
